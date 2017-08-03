@@ -5,9 +5,9 @@ namespace mafia_telegram_bot_reworked
 {
     class Program
     {
-        static public TelegramBotClient Bot { get; private set; }
+        public static TelegramBotClient Bot { get; private set; }
 
-        static public int ExceptionCounter = 1;
+        public static int ExceptionCounter = 1;
 
         static void Main(string[] args)
         {

@@ -39,7 +39,7 @@ namespace mafia_telegram_bot_reworked {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("mafia_telegram_bot_reworked.Strings", typeof(Strings).Assembly);
+                    var temp = new global::System.Resources.ResourceManager("mafia_telegram_bot_reworked.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

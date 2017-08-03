@@ -133,13 +133,13 @@
     <value>Игроки</value>
   </data>
   <data name="RemainingRoles" xml:space="preserve">
-    <value>Оставшиеся роли</value>
+    <value>Оставшиеся</value>
   </data>
   <data name="RoomID" xml:space="preserve">
     <value>Номер комнаты</value>
   </data>
   <data name="ShowMeRole" xml:space="preserve">
-    <value>Покажите мне мою роль!</value>
+    <value>Моя роль</value>
   </data>
   <data name="Token" xml:space="preserve">
     <value>293177835:AAFUSFXhNRHjgQY21Y7Z7kZVPZ0b_b91U8s</value>
